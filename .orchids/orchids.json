@@ -1,0 +1,7 @@
+{
+  "projectId": "f0494321-6ccb-4cd1-afea-17bf639f4f4d",
+  "createdAt": 1740153600,
+  "startupCommands": [
+    "cd /Users/adrianpaleka/orchids-projects/project-1 && python3 -m http.server 3000"
+  ]
+}
